@@ -1,4 +1,4 @@
-package com.java.prep;
+package com.java.linkedlist;
 
 public class Node {
 	private int data;
